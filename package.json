@@ -2,6 +2,7 @@
   "name": "test-nasa",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://denisdenis1991.github.io/Subtotal-test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
